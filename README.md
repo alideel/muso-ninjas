@@ -1,5 +1,5 @@
 # muso-ninjas1
-create new account 
+create new account ,
 go to home and show all playlists 
 ## Project setup
 ```
