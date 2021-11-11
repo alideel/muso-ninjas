@@ -1,5 +1,6 @@
 # muso-ninjas1
-
+create new account 
+go to home and show all playlists 
 ## Project setup
 ```
 npm install
